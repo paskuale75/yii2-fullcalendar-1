@@ -5,6 +5,12 @@ Change Log: `yii2-fullcalendar`
 
 **Date:** 22-Dec-2016
 
+- Update fullcalendar to v3.2.0
+
+## Version 1.0.6
+
+**Date:** 22-Dec-2016
+
 - Move files to src directory
 
 ## Version 1.0.5
