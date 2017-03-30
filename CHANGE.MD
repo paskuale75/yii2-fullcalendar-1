@@ -1,6 +1,18 @@
 Change Log: `yii2-fullcalendar`
 ===============================
 
+## Version 1.0.8
+
+**Date:** 30-Mar-2017
+
+- Loosen package versions
+
+## Version 1.0.7
+
+**Date:** 26-Feb-2017
+
+- Specify yii versions
+
 ## Version 1.0.6
 
 **Date:** 22-Dec-2016
