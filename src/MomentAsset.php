@@ -13,5 +13,5 @@ class MomentAsset extends \yii\web\AssetBundle
 		'moment.js',
 	];
 	/** @var  string  The location of the Moment.js library */
-	public $sourcePath = '@bower/moment';
+	public $sourcePath = '@npm/moment';
 }
