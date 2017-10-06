@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require edofre/yii2-fullcalendar "V1.0.9"
+$ php composer.phar require edofre/yii2-fullcalendar "V1.0.10"
 ```
 
 or add
 
 ```
-"edofre/yii2-fullcalendar": "V1.0.9"
+"edofre/yii2-fullcalendar": "V1.0.10"
 ```
 
 to the ```require``` section of your `composer.json` file.
