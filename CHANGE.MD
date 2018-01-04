@@ -1,6 +1,12 @@
 Change Log: `yii2-fullcalendar`
 ===============================
 
+## Version 1.0.11
+
+**Date:** 04-Jan-2018
+
+- New fullcalendar version (3.8.0)
+
 ## Version 1.0.10
 
 **Date:** 06-Oct-2017
