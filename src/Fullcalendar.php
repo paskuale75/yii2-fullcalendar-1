@@ -60,6 +60,10 @@ class Fullcalendar extends \yii\base\Widget
 	 */
 	public $theme = false;
 
+
+	public $themeSystem;
+
+	
 	/**
      * The javascript function to us as en eventRender callback
      * @var string the javascript code that implements the eventRender function
