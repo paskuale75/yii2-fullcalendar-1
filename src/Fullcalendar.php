@@ -2,6 +2,8 @@
 
 namespace edofre\fullcalendar;
 
+use yii\web\JsExpression;
+
 /**
  * Class Fullcalendar
  * @package edofre\fullcalendar
@@ -63,7 +65,7 @@ class Fullcalendar extends \yii\base\Widget
 
 	public $themeSystem;
 
-	
+
 	/**
      * The javascript function to us as en eventRender callback
      * @var string the javascript code that implements the eventRender function
